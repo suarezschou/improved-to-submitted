@@ -34,10 +34,12 @@ export default function ProductPage({product}) {
     const images = assets.filter(({ is_image }) => is_image);
     return (
         <React.Fragment>
-            <h1 className="text-lg text-orange-500">{product.name}</h1>
-            <p>{product.price.formatted_with_symbol}</p>
             
+            <h1 className="text-3xl text-orange-500 flex justify-center p-10">{product.name}</h1>
+            <p className="text-2xl text-blue-500 flex justify-center p-10">{product.price.formatted_with_symbol}</p>
+            <div className="p-10">
             <ProductImages images={images} />
+            </div>
         </React.Fragment>
     )
 }
