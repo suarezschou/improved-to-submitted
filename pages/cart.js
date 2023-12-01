@@ -27,10 +27,10 @@ function CartItem({id, name,quantity,line_total}){
             <p>{quantity}</p>
             <p>{line_total.formatted_with_symbol}</p>
             <div>
-                <button onClick={decrementQuantity}>-</button>
-                <button onClick={incrementQuantity}>+</button>
+                <button className="bg-black text-2xl hover:bg-opacity-50 text-primary py-10" onClick={decrementQuantity}>-</button>
+                <button className="bg-black text-2xl hover:bg-opacity-50 text-primary py-10" onClick={incrementQuantity}>+</button>
             </div>
-            <button onClick={removeItem}>Remove item from the cart</button>
+            <button className="bg-black text-2xl hover:bg-opacity-50 text-primary py-10" onClick={removeItem}>Remove item from the cart</button>
         </div>
     );
 }
@@ -40,17 +40,20 @@ export default function CartPage() {
   
     const isEmpty = line_items.length === 0;
   
-    if (isEmpty) return <p>Your cart is empty</p>;
+    if (isEmpty) return
+     <p>Your cart is empty</p>;
   
     return (
-      <div>
+      
+      <div className="bg-primary flex flex-col text-2xl">
         <h1>Cart has these items</h1>
-  
+        
+       
         {line_items.map((item) => (
           <CartItem key={item.id} {...item} />
         ))}
-  
-        <hr />
+       
+
   
         <p>
           Sub total: {subtotal.formatted_with_symbol}

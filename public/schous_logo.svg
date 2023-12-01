@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8787"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="schous_logo.svg"
+   inkscape:export-filename="schous_logo.svg"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview8789"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.5"
+     inkscape:cx="290"
+     inkscape:cy="366"
+     inkscape:window-width="1440"
+     inkscape:window-height="837"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs8784">
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect11361"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect11340"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect11336"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect11332"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect11300"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 148.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="210 : 148.5 : 1"
+       inkscape:persp3d-origin="105 : 99 : 1"
+       id="perspective11167" />
+    <rect
+       x="152"
+       y="322"
+       width="462"
+       height="234"
+       id="rect10939" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#2e1b1b;fill-opacity:1;stroke:#c1ad42;stroke-width:5;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect9207"
+       width="177.07745"
+       height="138.4483"
+       x="15.707107"
+       y="68.359184" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.25306862,0,0,0.253817,17.712852,-5.640083)"
+       id="text10937"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:96px;font-family:Verdana;-inkscape-font-specification:'Verdana, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect10939);display:inline;fill:#2e1b1b;fill-opacity:1;stroke:#c1ad42;stroke-width:10.6316;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"><tspan
+         x="152"
+         y="409.58371"
+         id="tspan15098">Schou's </tspan><tspan
+         x="152"
+         y="529.58371"
+         id="tspan15100">Guitars</tspan></text>
+    <g
+       id="g11681"
+       transform="translate(-3.4395834,-45.77291)">
+      <path
+         style="fill:#2e1b1b;fill-opacity:1;stroke:#c1ad42;stroke-width:1.77366;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 34.87719,194.39067 c 0.469979,-0.55093 0.958336,-1.08618 1.463988,-1.60456 4.055992,-4.1581 9.35127,-7.23622 15.103254,-8.04588 2.875992,-0.40483 5.839997,-0.23927 8.630115,0.56724 2.790118,0.80651 5.401427,2.25998 7.498343,4.2695 1.330119,1.27468 2.494718,2.79737 4.147963,3.61027 1.640208,0.80649 3.585784,0.80414 5.358095,0.35735 1.772311,-0.44679 3.409212,-1.30593 5.018768,-2.17198 1.609557,-0.86605 3.22716,-1.75327 4.982181,-2.26377 1.755021,-0.5105 3.686627,-0.61901 5.380766,0.067 1.299888,0.52636 2.393208,1.49707 3.191155,2.65035 0.797947,1.15327 1.313297,2.48402 1.644709,3.84671 0.662823,2.72539 0.60802,5.57079 1.020084,8.34518 0.548246,3.6913 1.912989,7.20349 3.219239,10.69919 1.30626,3.4957 2.5742,7.05709 2.91411,10.77337 0.3399,3.71628 -0.33833,7.6571 -2.60194,10.62396 -1.13181,1.48344 -2.646603,2.68958 -4.386994,3.36233 -1.740391,0.67276 -3.706058,0.79499 -5.488357,0.24275 -2.109937,-0.65376 -3.823532,-2.17079 -5.474042,-3.6388 -1.650509,-1.46801 -3.383347,-2.97005 -5.505857,-3.58175 -2.144952,-0.61817 -4.464757,-0.24928 -6.571052,0.48996 -2.106296,0.73924 -4.06758,1.834 -6.116834,2.71916 -5.458119,2.3576 -11.59275,3.19431 -17.452875,2.19017 -5.860125,-1.00414 -11.41589,-3.87405 -15.486824,-8.20728 -4.421831,-4.70673 -7.004416,-11.09815 -7.093683,-17.55554 -0.08927,-6.45739 2.315654,-12.91776 6.605688,-17.74492 z"
+         id="path11359"
+         inkscape:path-effect="#path-effect11361"
+         inkscape:original-d="m 34.87719,194.39067 c 0.488118,-0.53466 0.976113,-1.0695 1.463988,-1.60456 0.487872,-0.53506 20.821263,-2.13922 31.231712,-3.20914 10.410449,-1.0699 2.765431,2.40706 4.147963,3.61027 1.382531,1.20323 13.826663,-2.67407 20.73981,-4.01141 6.913148,-1.33734 3.904086,9.89502 5.855948,14.84224 1.951859,4.94721 -4.229172,23.80127 -6.343942,35.7016 -2.114771,11.90032 -7.319813,-4.8135 -10.979899,-7.22055 -3.660091,-2.40706 -8.458469,2.13963 -12.687886,3.20912 -4.229417,1.06952 -21.959677,-4.0112 -32.939699,-6.01711 -10.980021,-2.00591 -0.325208,-23.53344 -0.487995,-35.30046 z" />
+      <rect
+         style="fill:#2e1b1b;fill-opacity:1;stroke:#c1ad42;stroke-width:0.975797;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect11654"
+         width="64.053368"
+         height="7.167953"
+         x="74.180092"
+         y="215.33792"
+         transform="rotate(-6.9809578)" />
+      <rect
+         style="fill:#2e1b1b;fill-opacity:1;stroke:#c1ad42;stroke-width:1;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect11676"
+         width="23.283333"
+         height="14.287499"
+         x="138.67903"
+         y="211.16324"
+         transform="rotate(-6.8884807)" />
+    </g>
+  </g>
+</svg>

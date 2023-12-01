@@ -7,7 +7,7 @@ export default function ProductList({products}){
     if(!products) return null;
     
     return(
-        <ul className="grid gap-4 grid-cols-2 text-xl p-10 ">
+        <ul className="bg-primary grid gap-4 grid-cols-2 text-xl p-10 ">
             {products.map((product) =>(
                 <li key={product.permalink}>
                     <Link legacyBehavior href={`/products/${product.permalink}`}>
